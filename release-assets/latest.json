@@ -1,11 +1,11 @@
 {
-  "version": "2.4.9",
-  "notes": "Per Todo 2.4.9 fixes the online update channel and preserves local task data during upgrades.",
-  "pub_date": "2026-09-11T15:21:40+08:00",
+  "version": "2.4.10",
+  "notes": "Per Todo 2.4.10 introduces the new Personal To-Do logo across the app, taskbar, tray, and installer.",
+  "pub_date": "2026-09-11T16:09:54+08:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZC9MMTZwOC9PVXpsRUowaWJmOHQrTlhybWxmVGRRSStKRUgxS0ZOU3FTeTl2VXk1NEY0c0Izc3gwb0ZUV1RsNmRYdTR6OFdlQ3ozUFU2R1JNNmM3SjBsZStvVGY1aXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTAyNzk2CWZpbGU6UGVyIFRvZG9fMi40LjlfeDY0LXNldHVwLmV4ZQpqb1hyMjh4Wm1pdnM5VGhmSGxWL0U2SnRWay9NQUViVWJNUUcxZ0YxaEtkYStTMjdmTTBCK1BGQW5NbURJaEJ3VTZlR3VtczFndkJ6STh6VHZJejNCdz09Cg==",
-      "url": "https://github.com/yewwung/Per-Todo-Releases/releases/download/v2.4.9/Per.Todo_2.4.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZC9MMTZwOC9PVTIwMUJBVWFObUwrUkc1UlRkSzF5dkRpbnV0N01JN2tBeHpZd2pKSVA4cXRwSnhSbjhlelRtdi91eE5rMHpYaXNOUC84WXFwMndFcmtZY0dmT0JGK2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTE0MDU4CWZpbGU6UGVyIFRvZG9fMi40LjEwX3g2NC1zZXR1cC5leGUKb0Q0WDcxWkZ2dGJBZW1pblh1L2hPZXFUdkFsMy9BZnNLNnB3cUY1YU9wQVB4MFBiNUJ5OHQ0dEM4aWl1bjBhRnc0K0NQcTM2MW5hUi91QlVYNEpEQWc9PQo=",
+      "url": "https://github.com/yewwung/Per-Todo-Releases/releases/download/v2.4.10/Per.Todo_2.4.10_x64-setup.exe"
     }
   }
 }

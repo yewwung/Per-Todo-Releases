@@ -1,6 +1,10 @@
-Per Todo 2.4.10
+# Per Todo v1.0.10
 
-- Introduces a new Personal To-Do logo that combines a P monogram with a completed-task check.
-- Applies the same icon to the app, About panel, taskbar, system tray, installer, and portable build.
-- Keeps local task data unchanged during the update.
-- Provides Windows x64 installer and portable packages.
+发布日期：2026-09-13
+
+- 待办列表优先显示“进行中”，其次显示“未开始”。
+- 每个状态组内继续按照逾期、今天、未来、无截止时间自适应排序。
+- 仅在发现签名完整、可以安装的新版本时显示更新提醒。
+- 优化设置、日历、已完成列表等内嵌面板打开时的窗口折叠行为。
+- 更新过程保留本机 `%LOCALAPPDATA%\per-todo\data.db` 待办数据。
+- 提供 Windows x64 安装包、签名文件及跨平台 Release 产物。

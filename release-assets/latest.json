@@ -1,19 +1,19 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "notes": "## 更新内容",
-  "pub_date": "2026-09-13T05:20:36.317Z",
+  "pub_date": "2026-09-14T01:11:30.254Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZC9MMTZwOC9PVXlreHhNU1h6N3djVTk4T1BVRHBGN2M4Ylp2UDliVHordXJ6QS9JRDNrN2NEWmF4MmpzU2huYlNQTllvdW51YUhOd0ZuNTdZTnc5cGdQSzFCWjluUEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mjc2ODIxCWZpbGU6UGVyIFRvZG9fMS4wLjEwX3g2NC1zZXR1cC5leGUKc2pZZUJkSWY5WFRmUVVxSTNRQXZrNHphQS8veTJPa3hwNXJOZlF1eTJOWEI5ckMycXJtY0tMbW1qL1RaaE1ReUdrOFV3MGoxYkJYNTg3eVZNTDhxQ0E9PQo=",
-      "url": "https://github.com/yewwung/Per-Todo-Releases/releases/download/v1.0.10/Per.Todo_1.0.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZC9MMTZwOC9PVTRkRUF0dkdjb2tkMjRJWmhNZE85Z1pkQ1A5OC9hcVpFV2VDaERleGt6S2hScDY3L2FTajFhcnRPbTNtMTlXTEo5YkNxTVN6S2FZMFo4L2JyUWJtMXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzQ4Mjg0CWZpbGU6UGVyIFRvZG9fMS4wLjExX3g2NC1zZXR1cC5leGUKU3lVOU9CUS9xL2VseTE3UlN6ckc4YmtBZDZMa0VtSkJYRHFjZTVwTytLRHBhVlBCV2J0VGNxaklVUTgzelhIQ0dQMjNvOTFtdHo4d2pPVVRrUyt5Q0E9PQo=",
+      "url": "https://github.com/yewwung/Per-Todo-Releases/releases/download/v1.0.11/Per.Todo_1.0.11_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZC9MMTZwOC9PVXlreHhNU1h6N3djVTk4T1BVRHBGN2M4Ylp2UDliVHordXJ6QS9JRDNrN2NEWmF4MmpzU2huYlNQTllvdW51YUhOd0ZuNTdZTnc5cGdQSzFCWjluUEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mjc2ODIxCWZpbGU6UGVyIFRvZG9fMS4wLjEwX3g2NC1zZXR1cC5leGUKc2pZZUJkSWY5WFRmUVVxSTNRQXZrNHphQS8veTJPa3hwNXJOZlF1eTJOWEI5ckMycXJtY0tMbW1qL1RaaE1ReUdrOFV3MGoxYkJYNTg3eVZNTDhxQ0E9PQo=",
-      "url": "https://github.com/yewwung/Per-Todo-Releases/releases/download/v1.0.10/Per.Todo_1.0.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZC9MMTZwOC9PVTRkRUF0dkdjb2tkMjRJWmhNZE85Z1pkQ1A5OC9hcVpFV2VDaERleGt6S2hScDY3L2FTajFhcnRPbTNtMTlXTEo5YkNxTVN6S2FZMFo4L2JyUWJtMXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzQ4Mjg0CWZpbGU6UGVyIFRvZG9fMS4wLjExX3g2NC1zZXR1cC5leGUKU3lVOU9CUS9xL2VseTE3UlN6ckc4YmtBZDZMa0VtSkJYRHFjZTVwTytLRHBhVlBCV2J0VGNxaklVUTgzelhIQ0dQMjNvOTFtdHo4d2pPVVRrUyt5Q0E9PQo=",
+      "url": "https://github.com/yewwung/Per-Todo-Releases/releases/download/v1.0.11/Per.Todo_1.0.11_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZC9MMTZwOC9PVTNER3dReHNBV2FSdGhyQ3NLVytQR0pGRlNwTzNTZnF1N1hMQ0cvdVNKeXAzTWpjTlVOeDZmU3BoYytydHk1TzNudURaUEZoRGsvOEh5S29Ob24rSlF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5Mjc2ODIxCWZpbGU6UGVyIFRvZG9fMS4wLjEwX3g2NF9lbi1VUy5tc2kKemd4ajkvdUhmckJvYjliN3ZQUE92SFpZdnoycVBJNjQ0aGlzM1UxMHhiL2R5dVlDSEdRWkh5QzJpZURNUUswRkxlOHRsSmtmbk96SFAzSDFZWVhoQ0E9PQo=",
-      "url": "https://github.com/yewwung/Per-Todo-Releases/releases/download/v1.0.10/Per.Todo_1.0.10_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZC9MMTZwOC9PVTlGRVI3RXAxQW92RWJLQjZqOHlkajdJQ1lvS3ZDSXZHVjJKdWJuZWxuL05DNlVZMVQrcXNiQ2V5elpZZ0I5VHRXL0RCVm54N2ZsSS9pWVNHdzM5UHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MzQ4Mjg0CWZpbGU6UGVyIFRvZG9fMS4wLjExX3g2NF9lbi1VUy5tc2kKVGhZY09QdjM1SlJVY1czV3VFSXRFWDN1eHRrSTB4bTZkaWlnbjg4dGY2MHpTTjVDQ1I5Q3poUkUxMXBBUUZMVFEvamNDekRONFpFamhNRW9xUjlwQXc9PQo=",
+      "url": "https://github.com/yewwung/Per-Todo-Releases/releases/download/v1.0.11/Per.Todo_1.0.11_x64_en-US.msi"
     }
   }
 }
